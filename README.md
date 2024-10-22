@@ -39,10 +39,14 @@ The repository is divided into three main sections:
 ## Assignments Overview <img src="https://github.com/user-attachments/assets/2b222d42-07a9-4373-82a3-1e9a6f34d7a6" width="30" height="30" />
 
 The Assignments folder contains a series of tasks that cover various aspects of Machine Learning and Deep Learning. The assignments focus on practical implementation, using TensorFlow to build models and Flask to deploy them. Key topics include:
+- Python Review: I refreshed my Python skills, focusing on syntax and libraries like NumPy and Pandas, which laid a solid foundation for the next tasks.
+- Exploratory Data Analysis (EDA): Performed EDA to identify trends and insights using visualization tools like Matplotlib and Seaborn, helping to understand data distributions and relationships.
+- Data Preprocessing: Focused on cleaning data by handling missing values, normalizing, and encoding categorical variables, ensuring high-quality input for models.
 - Supervised Learning: Implemented classification and regression models using Scikit-learn and TensorFlow.
 - Unsupervised Learning: Worked on clustering algorithms to identify patterns in data.
+- Time Series Analysis: Analyzed time series data using techniques like seasonal decomposition and ARIMA modeling to identify patterns and forecast future values effectively.
 - Deep Learning: Built neural networks, including CNNs for image classification and LSTM models for sequence analysis.
 - Natural Language Processing (NLP): Developed models for tasks like text classification and sentiment analysis.
 
-Each assignment explores different ML/DL techniques and demonstrates using TensorFlow, Keras, and Flask to build and train AI models.
+Each assignment explores different ML/DL techniques :) .
 
