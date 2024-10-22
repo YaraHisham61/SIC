@@ -1,0 +1,292 @@
+skills_group_0:
+- Assembly
+- Bash/Shell (all shells)
+- C
+- C++
+- MATLAB
+- GTK
+- MFC
+- OpenGL
+- Qt
+- APT
+- CMake
+- Catch2
+- GNU GCC
+- Google Test
+- LLVM's Clang
+- MSVC
+- Make
+- Meson
+- Ninja
+- QMake
+- CLion
+- DataGrip
+- Fleet
+- Kate
+- Nano
+- Qt Creator
+- Vim
+- WebStorm
+skills_group_1:
+- APL
+- Ada
+- Clojure
+- Cobol
+- Crystal
+- Flow
+- Fortran
+- Haskell
+- Julia
+- Lisp
+- Nim
+- OCaml
+- Perl
+- Prolog
+- Raku
+- Zig
+- Datomic
+- IBM DB2
+- IBM Cloud Or Watson
+- Elm
+- Emacs
+skills_group_10:
+- Dynamodb
+- Elasticsearch
+- InfluxDB
+- Neo4J
+- PostgreSQL
+- Redis
+- Amazon Web Services (AWS)
+- OpenShift
+- OpenStack
+- RabbitMQ
+- Ansible
+- Docker
+- Kubernetes
+- Podman
+- Terraform
+skills_group_11:
+- Deno
+- Nuxt.js
+- Qwik
+- Solid.js
+- Svelte
+- Vue.js
+- Bun
+- Vite
+- pnpm
+skills_group_12:
+- Elixir
+- Erlang
+- Ruby
+- Fly.io
+- Phoenix
+- Ruby on Rails
+- RubyMine
+skills_group_13:
+- GDScript
+- Godot
+- Unity 3D
+- Unreal Engine
+skills_group_14:
+- Delphi
+- Firebird
+- Rad Studio (Delphi, C++ Builder)
+skills_group_15:
+- Solidity
+- Supabase
+- Heroku
+- Netlify
+- Render
+- Vercel
+- Gatsby
+- Next.js
+- React
+- Remix
+- React Native
+skills_group_16:
+- PHP
+- MariaDB
+- MySQL
+- SQLite
+- Solr
+- Managed Hosting
+- CodeIgniter
+- Drupal
+- Laravel
+- Symfony
+- WordPress
+- jQuery
+- Composer
+- PhpStorm
+skills_group_17:
+- BigQuery
+- Cloud Firestore
+- Firebase Realtime Database
+- Firebase
+- Google Cloud
+skills_group_18:
+- Objective-C
+- Swift
+- SwiftUI
+- Homebrew
+- Xcode
+skills_group_19:
+- Scala
+- Cassandra
+- Snowflake
+- Play Framework
+- Apache Kafka
+- Apache Spark
+- Hadoop
+skills_group_2:
+- Python
+- R
+- Django
+- FastAPI
+- Flask
+- CUDA
+- Hugging Face Transformers
+- Keras
+- NumPy
+- Opencv
+- Pandas
+- Scikit-Learn
+- TensorFlow
+- Tidyverse
+- Torch/PyTorch
+- Pip
+- IPython
+- Jupyter Notebook/JupyterLab
+- PyCharm
+- RStudio
+- Spyder
+skills_group_20:
+- Capacitor
+- Cordova
+- Ionic
+skills_group_21:
+- Lua
+- Rust
+- Tauri
+- Cargo
+- Nix
+- Pacman
+- Helix
+- Neovim
+- VSCodium
+skills_group_3:
+- C#
+- F#
+- PowerShell
+- SQL
+- VBA
+- Visual Basic (.Net)
+- Cosmos DB
+- Microsoft Access
+- Microsoft SQL Server
+- Microsoft Azure
+- VMware
+- ASP.NET
+- ASP.NET CORE
+- Blazor
+- '.NET (5+) '
+- .NET Framework (1.0 - 4.8)
+- .NET MAUI
+- Xamarin
+- Chocolatey
+- MSBuild
+- NuGet
+- Visual Studio Solution
+- Notepad++
+- Rider
+- Visual Studio
+skills_group_4:
+- SAS
+- Clickhouse
+- Cockroachdb
+- Couch DB
+- Couchbase
+- DuckDB
+- RavenDB
+- TiDB
+- Colocation
+- Lit
+- JAX
+- Uno Platform
+- Boost.Test
+- CUTE
+- ELFspy
+- Pulumi
+- SCons
+- Wasmer
+- bandit
+- build2
+- cppunit
+- doctest
+- lest
+- liblittletest
+- snitch
+- tunit
+- BBEdit
+- Geany
+- Micro
+- Nova
+- TextMate
+- condo
+skills_group_5:
+- Dart
+- Groovy
+- Kotlin
+- Flutter
+- Ktor
+- Micronaut
+- Quarkus
+- Dagger
+- Gradle
+- Android Studio
+skills_group_6:
+- HTML/CSS
+- JavaScript
+- TypeScript
+- MongoDB
+- Angular
+- AngularJS
+- Express
+- Fastify
+- NestJS
+- Node.js
+- Electron
+- Webpack
+- Yarn
+- npm
+- Visual Studio Code
+skills_group_7:
+- Cloudflare
+- Digital Ocean
+- Hetzner
+- Linode, now Akamai
+- OVH
+- Scaleway
+- Vultr
+skills_group_8:
+- Apex
+- Java
+- H2
+- Oracle
+- Oracle Cloud Infrastructure (OCI)
+- Spring Boot
+- Spring Framework
+- Ant
+- Maven (build tool)
+- Atom
+- Code::Blocks
+- Eclipse
+- IntelliJ IDEA
+- Netbeans
+- Sublime Text
+skills_group_9:
+- Go
+- Chef
+- Puppet
+- Goland
